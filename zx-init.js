@@ -1,6 +1,5 @@
 #! /usr/bin/env node
 
-import { argv, echo } from "zx"
 import "zx/globals"
 
 $.shell = "pwsh"
