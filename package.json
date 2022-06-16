@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "zx": "^7.0.0"
+  },
+  "bin": {
+    "zx-basics": "./hello.js" 
+  }
+}
